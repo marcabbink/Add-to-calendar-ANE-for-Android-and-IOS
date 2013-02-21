@@ -1,0 +1,171 @@
+// !$*UTF8*$!
+{
+	0248033F1372BF3100D5D814 /* capiextension.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {936, 2132}}";
+			sepNavSelRange = "{1903, 0}";
+			sepNavVisRange = "{1647, 405}";
+			sepNavWindowFrame = "{{669, 56}, {750, 558}}";
+		};
+	};
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeSDKPreference = iphoneos4.1;
+		activeTarget = D2AAC07D0554694100DB518D /* CalandarEventsLibrary */;
+		breakpoints = (
+			78AE4FEF14A0BEBD0068CA7C /* capiextension.m:15 */,
+		);
+		codeSenseManager = 78E10E6A1483E0F200319789 /* Code sense */;
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					554,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					514,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 346071561;
+			PBXWorkspaceStateSaveDate = 346071561;
+		};
+		perUserProjectItems = {
+			78AE500314A0D1B90068CA7C /* PBXTextBookmark */ = 78AE500314A0D1B90068CA7C /* PBXTextBookmark */;
+			78AE500414A0D1B90068CA7C /* PBXTextBookmark */ = 78AE500414A0D1B90068CA7C /* PBXTextBookmark */;
+			78AE500614A0D1F30068CA7C /* PBXTextBookmark */ = 78AE500614A0D1F30068CA7C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 78E10E691483E0F200319789 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	632F26FB140FC2F50096F1A8 /* CalandarEventsLibrary_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {732, 441}}";
+			sepNavSelRange = "{102, 217}";
+			sepNavVisRange = "{0, 320}";
+			sepNavWindowFrame = "{{61, 53}, {750, 558}}";
+		};
+	};
+	78AE4FEF14A0BEBD0068CA7C /* capiextension.m:15 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0248033F1372BF3100D5D814 /* capiextension.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 15;
+		modificationTime = 346078909.486957;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	78AE500314A0D1B90068CA7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 632F26FB140FC2F50096F1A8 /* CalandarEventsLibrary_Prefix.pch */;
+		name = "CalandarEventsLibrary_Prefix.pch: 5";
+		rLen = 217;
+		rLoc = 102;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 0;
+	};
+	78AE500414A0D1B90068CA7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0248033F1372BF3100D5D814 /* capiextension.m */;
+		name = "capiextension.m: 57";
+		rLen = 0;
+		rLoc = 1562;
+		rType = 0;
+		vrLen = 933;
+		vrLoc = 1293;
+	};
+	78AE500614A0D1F30068CA7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0248033F1372BF3100D5D814 /* capiextension.m */;
+		name = "capiextension.m: 57";
+		rLen = 0;
+		rLoc = 1562;
+		rType = 0;
+		vrLen = 925;
+		vrLoc = 1293;
+	};
+	78E10E691483E0F200319789 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	78E10E6A1483E0F200319789 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D2AAC07D0554694100DB518D /* CalandarEventsLibrary */ = {
+		activeExec = 0;
+	};
+}

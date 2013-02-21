@@ -1,0 +1,27 @@
+<extension xmlns="http://ns.adobe.com/air/extension/3.1">
+<id>ie.jampot.CalandarEvents</id>
+<versionNumber>1.0.0</versionNumber>
+<platforms>
+
+	<platform name="iPhone-ARM">
+		<applicationDeployment>
+			<nativeLibrary>libCalandarEventsLibrary.a</nativeLibrary>
+			<initializer>ExtInitializerCalandarEvents</initializer>
+			<finalizer>ExtFinalizerCalandarEvents</finalizer>
+		</applicationDeployment>
+	</platform>
+	
+	<platform name="Android-ARM">
+		<applicationDeployment>
+			<nativeLibrary>libCalandarEventsLibrary.jar</nativeLibrary>
+			<initializer>ie.jampot.calandarevents.ANECalandarEventsExtension</initializer>
+			<finalizer>ie.jampot.calandarevents.ANECalandarEventsExtension</finalizer>
+		</applicationDeployment>
+	</platform>
+	
+	<platform name="default">
+		<applicationDeployment />
+	</platform>
+	
+</platforms>
+</extension>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<componentPackage>
+	<component id="CalandarEvents" class="ie.jampot.nativeExtensions.CalandarEvents"/>
+</componentPackage>
